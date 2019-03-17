@@ -1,4 +1,4 @@
-# Nodejs Boilerplate
+# Setup instructions
 
 ## Requirements
     Node==10.14.2
